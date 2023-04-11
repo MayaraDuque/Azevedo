@@ -1,5 +1,5 @@
 body{
-background-color:rgba(160, 149, 100);
+background-color:rgb(190, 6, 30);
 font-family: 'Lucida Sans';
 font-size: small;
 color: #fdfdfd;
@@ -19,14 +19,14 @@ font-size: 14px;
 font-family: 'Lucida Sans';
 font-size: small;
 font-size: 12px;
-background-color:rgb(66, 56, 10);
+background-color:rgb(27, 27, 26);
 }
 .lista {
 font-family: 'Lucida Sans';
 font-size: small;
 text-align: left;
 font-size: 12px;
-color:rgb(66, 56, 10);
+color:rgb(14, 13, 13);
 }
 .itens {
 background-color: rgb(211, 204, 174);
